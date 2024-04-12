@@ -1,0 +1,16 @@
+
+body{
+    background-color: rgb(160, 156, 156);
+}
+
+header{
+    background-color:blue;
+    color:ivory;
+}
+p{
+color: blue;
+}
+footer{
+    background-color: black;
+    color: ivory;
+}
